@@ -7,15 +7,15 @@ Planning for the large number of employees expected to retire over the next seve
 
 Over 72,000 employees are expected to retire in over the next several yers with the majority being senior level (Table 1).
 
-Table 1. Upcoming Retirements by Title
+    Table 1. Upcoming Retirements by Title
 
-![titleCounts](https://user-images.githubusercontent.com/96216947/152693655-ad65e9d8-c649-4e02-a9a4-8235e8b063d3.PNG)
+    ![titleCounts](https://user-images.githubusercontent.com/96216947/152693655-ad65e9d8-c649-4e02-a9a4-8235e8b063d3.PNG)
 
 Conversely, only around 1,500 employees are currently elgible for the new mentorship program with the majority already being senior level (Table 2).
 
-Table 2. Staff Eligible for Mentorship Program by Title
+    Table 2. Staff Eligible for Mentorship Program by Title
 
-![mentorshipCounts](https://user-images.githubusercontent.com/96216947/152693724-271104fe-f488-4038-abc5-2bd6dc4c57c7.PNG)
+    ![mentorshipCounts](https://user-images.githubusercontent.com/96216947/152693724-271104fe-f488-4038-abc5-2bd6dc4c57c7.PNG)
 
 Major points to consider include:
 - 72,458 employees are expected to retire over the next several years.
