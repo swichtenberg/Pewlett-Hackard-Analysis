@@ -5,7 +5,7 @@ Planning for the large number of employees expected to retire over the next seve
 
 ## Results
 
-Over 72,000 employees are expected to retire in over the next several yers with the majority being senior level (Table 1). Conversely, only around 1,500 employees are currently elgible for the new mentorship program with the majority already being senior level (Table 2).
+Over 72,000 employees are expected to retire in over the next several yers with the majority being senior level (Table 1). Conversely, only around 1,500 employees have the experience necessary to mentor the next generation of Pewlett Hackard employees (Table 2).
 
 Table 1. Upcoming Retirements by Title
 
@@ -18,14 +18,9 @@ Table 2. Staff Eligible for Mentorship Program by Title
 Major points to consider include:
 - 72,458 employees are expected to retire over the next several years.
 - 70% of upcoming retirements are senior level (i.e. Senior Engineer, Senior Staff).
-- 1,549 employees are eligible for the current mentorship program.
-- 70% of employees eligble for the current mentorship program are senior level.
+- 1,549 employees have the experience necessary to mentor other employees.
+- 70% of potential mentors are senior level.
 
 ## Summary
 
-
-
-The summary addresses the two questions and contains two additional queries or tables that may provide more insight. (5 pt)
-Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
-How many roles will need to be filled as the "silver tsunami" begins to make an impact?
-Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+As discussed above, a total of 72,458 roles will need to be filled as the "silver tsunami" begins to make an impact with only 1,549 employees available to serve as mentors. Consequently, it is clear there are not enough qualified employees to mentor the next generation of Pewlett Hackard employees. As the list of potential mentors was generated based on birth dates in a single year, it would be adviseable to expand the qualifications. Future queries could include expanding eligibility to a range of birth dates (e.g. 1960-1965), identifying mentors based on years of service, or identifying mentors based on current job title alone.
